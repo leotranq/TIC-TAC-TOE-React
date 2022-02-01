@@ -5,32 +5,53 @@
     position: absolute;
     left: 24%;
     z-index: 1;
+    border: 0.2rem solid #fff;
+    border-radius: 2rem;
+    padding: 0.4em;
+    box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #bc13fe,
+              0 0 0.8rem #bc13fe,
+              0 0 2.8rem #bc13fe,
+              inset 0 0 1.3rem #bc13fe;
 }
+
 
 .CBoard{
     text-align: center;
     z-index: 1;
     position: absolute;
-    left: 35%;
+    left: 39%;
     margin-top: 1rem;
     
+    
 }
+
 button{
-    height: 8rem;
-    width: 8rem;
+    height: 9rem;
+    width: 9rem;
+    margin:auto;
     margin-top: 9rem;
-    margin-left: 3rem;
-    margin-right: 3rem;
+    margin-right: 4rem;
+    border-radius: 20%;
+    border: 0.2rem solid #fff;
+    border-radius: 2rem;
+    padding: 0.4em;
+    box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #fab700,
+              0 0 0.8rem #fab700,
+              0 0 2.8rem #bc13fe,
+              inset 0 0 1.3rem #bc13fe;
+    
 }
 input{
     width: 8rem;
     margin-top: 8rem;
 
-    
 }
 .Player1{
-    padding: 6px;
-    
+    padding: 6px;    
 }
 .Player2{
     padding: 6px;
