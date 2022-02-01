@@ -1,0 +1,39 @@
+.CBackground{
+    width: 50rem;
+    height: 30rem;
+    background-color: black;
+    position: absolute;
+    left: 24%;
+    z-index: 1;
+}
+
+.CBoard{
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    left: 35%;
+    margin-top: 1rem;
+    
+}
+button{
+    height: 8rem;
+    width: 8rem;
+    margin-top: 9rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+input{
+    width: 8rem;
+    margin-top: 8rem;
+
+    
+}
+.Player1{
+    padding: 6px;
+    
+}
+.Player2{
+    padding: 6px;
+}
+
+

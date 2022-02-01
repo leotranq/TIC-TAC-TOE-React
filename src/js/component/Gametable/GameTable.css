@@ -1,0 +1,29 @@
+table{
+    opacity: 0.7;
+    height: 30rem;
+    width:30rem;
+    text-align: center;
+    border-width: 5rem;
+    margin: auto;
+    padding: 0.4em;
+}
+
+tr{
+    border-width: 1px;
+    box-shadow: 0 0 .2rem #fff,
+    0 0 .2rem #fff,
+    0 0 2rem #fefa13,
+    0 0 0.8rem #fbff08,
+    0 0 2.8rem #4afe13,
+    inset 0 0 1.3rem #e6fe13;
+    font-size: 5rem;
+    text-shadow:
+      0 0 4px #fff,
+      0 0 10px #fff,
+      0 0 18px #fff,
+      0 0 38px rgb(0, 255, 255),
+      0 0 73px rgb(255, 0, 0),
+      0 0 80px rgb(248, 143, 213),
+      0 0 94px #f09,
+      0 0 140px #f09;
+}
